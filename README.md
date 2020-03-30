@@ -1,2 +1,2 @@
 # berita
-masih di susun
+masih disusun
