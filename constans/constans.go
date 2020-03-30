@@ -1,0 +1,3 @@
+package constans
+
+import "errors"
