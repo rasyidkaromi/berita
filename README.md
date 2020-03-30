@@ -1,2 +1,2 @@
 # berita
-masih disusun
+sketch for kafka-redis-mysql-Es
